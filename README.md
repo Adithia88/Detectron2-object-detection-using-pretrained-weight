@@ -12,6 +12,6 @@ demo for detectron2  using google colab
 
 5.make sure your google colab using GPU (check in edit-notebook setting change to GPU)
 
-6.just run the code
+6.just run the code, dont forget to upload videos what u want to detect
 
 7.the demo video in youtube
