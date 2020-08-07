@@ -1,0 +1,1 @@
+# Detectron2-object-detection-using-pretrained-weight
